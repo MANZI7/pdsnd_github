@@ -9,6 +9,7 @@ bikeshareproject
 ### Description
 Describe what your project is about and what it does:
 bikeshare project was designed to display the statistical information about the bike rent of three chosen city of the USA
+this project show well the distance covered by the bike along the six month
 ### Files used
 Include the files used:
 CHICAGO.CSV,NEW_YORK_CITY.CSV AND WASHINGTON.CSV
