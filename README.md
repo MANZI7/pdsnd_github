@@ -7,10 +7,22 @@ Replace the Project Title:
 bikeshareproject
 
 ### Description
+<<<<<<< HEAD
 Describe what your project is about and what it does:
 bikeshare project was designed to display the statistical information about the bike rent of three chosen city of the USA
 this project show well the distance covered by the bike along the six month
 this project is designed such that the user select the city,the month and the day of his/her choice 
+||||||| e664611
+Describe what your project is about and what it does
+
+=======
+Describe what your project is about and what it does:
+bikeshare project was designed to display the statistical information about the bike rent of three chosen city of the USA
+this project show well the distance covered by the bike along the six month
+this project is designed such that the user select the city,the month and the day of his/her choice
+the project is displaying the only needed information
+bikeshare project is working well and appropriate 
+>>>>>>> refactoring
 ### Files used
 Include the files used:
 CHICAGO.CSV,NEW_YORK_CITY.CSV AND WASHINGTON.CSV
